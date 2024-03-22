@@ -9,10 +9,10 @@ TextEditingController txtQuantity = TextEditingController();
 
 List Products = [];
 
-int total() {
+String total() {
   dynamic sum = 0;
   for (int i = 0; i < Products.length; i++) {
     sum += Products[i]['productPrice'].text;
   }
-  return sum;
+  return sum.toString();
 }

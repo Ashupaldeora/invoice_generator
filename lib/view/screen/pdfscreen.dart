@@ -76,11 +76,21 @@ Future<Uint8List> generatepdf() async {
                 style: r.TextStyle(font: lato, fontSize: 15)),
           ]),
         ),
-        r.TableRow(children: [
-          r.Text("${total()}",
+        // r.TableRow(
+        //
+        //     children: [
+        //   r.Text("599",
+        //       textAlign: r.TextAlign.center,
+        //       style: r.TextStyle(font: lato, fontSize: 15)),
+        // ]),
+      ]),
+      r.Row(mainAxisAlignment: r.MainAxisAlignment.end, children: [
+        r.Padding(
+          padding: r.EdgeInsets.only(right: 20),
+          child: r.Text("599",
               textAlign: r.TextAlign.center,
               style: r.TextStyle(font: lato, fontSize: 15)),
-        ]),
+        )
       ])
     ]),
   ));
