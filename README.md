@@ -15,7 +15,12 @@ This project is a starting point for a Flutter application.
   <img src="https://github.com/Ashupaldeora/invoice_generator/assets/143180848/c9fcc3bc-6559-44dc-8c38-dbdb194d3967" height = "450px" hspace = 20>
   
 </p>
-<video src="https://github.com/Ashupaldeora/invoice_generator/assets/143180848/7f7db993-ab13-4720-bd1d-158ccdb0dcef">
+<video src="https://github.com/Ashupaldeora/invoice_generator/assets/143180848/feb25209-b958-4769-b4e7-87f18fdfccf8">
+
+
+
+
+
 
 
 
